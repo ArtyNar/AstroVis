@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load the .fits file
-fits_file = "data/SAT_f322w2-f323n_i2d.fits"
+fits_file = "data/jw01247-o341_t637_nircam_f322w2-f323n_i2d.fits"
 
 with fits.open(fits_file) as hdul:
     # Display file info
