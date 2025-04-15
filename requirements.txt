@@ -2,3 +2,5 @@ astropy
 numpy
 matplotlib
 vtk
+skimage
+reproject
