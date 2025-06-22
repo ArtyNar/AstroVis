@@ -2,6 +2,8 @@
 
 This project takes raw FITS images from the James Webb Space Telescope (JWST), performs reprojection to a common coordinate system, and generates visually compelling false-color images. 
 
+Final result: [link](https://figshare.com/ndownloader/files/53658785/preview/53658785/preview.jpg)
+
 ## Example Workflow
 
 1. **Download FITS files** from JWST NIRCam or MIRI instruments from the MAST archive here:
